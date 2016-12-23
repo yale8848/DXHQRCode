@@ -1,0 +1,1083 @@
+[
+    {
+        "outputFile": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 47,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 47,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 43,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 43,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 58,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 58,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 53,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 53,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 49,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 49,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 47,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 47,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 47,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 47,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 47,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 47,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 47,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 47,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 52,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endColumn": 52,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 51,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 51,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 61,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 61,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 57,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 57,
+                        "endOffset": 772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endColumn": 55,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 777,
+                        "endColumn": 55,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 43,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 43,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 47,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 47,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 35,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 35,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 42,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endColumn": 45,
+                    "endOffset": 1045
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 45,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1050,
+                    "endColumn": 49,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 49,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 33,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endColumn": 33,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 44,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 44,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 47,
+                    "endOffset": 1222
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 47,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1227,
+                    "endColumn": 52,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 52,
+                        "endOffset": 1275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 46,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1280,
+                        "endColumn": 46,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 36,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endColumn": 36,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 46,
+                    "endOffset": 1406
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 46,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1411,
+                    "endColumn": 44,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 44,
+                        "endOffset": 1451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endColumn": 40,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1456,
+                        "endColumn": 40,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 46,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 46,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 81,
+                    "endOffset": 1621
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1544,
+                        "endColumn": 81,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1626,
+                    "endColumn": 49,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endColumn": 49,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 48,
+                    "endOffset": 1720
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 48,
+                        "endOffset": 1720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1725,
+                    "endColumn": 47,
+                    "endOffset": 1768
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1725,
+                        "endColumn": 47,
+                        "endOffset": 1768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1773,
+                    "endColumn": 47,
+                    "endOffset": 1816
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1773,
+                        "endColumn": 47,
+                        "endOffset": 1816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1821,
+                    "endColumn": 40,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1821,
+                        "endColumn": 40,
+                        "endOffset": 1857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endColumn": 45,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1862,
+                        "endColumn": 45,
+                        "endOffset": 1903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endColumn": 40,
+                    "endOffset": 1944
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1908,
+                        "endColumn": 40,
+                        "endOffset": 1944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1949,
+                    "endColumn": 40,
+                    "endOffset": 1985
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1949,
+                        "endColumn": 40,
+                        "endOffset": 1985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1990,
+                    "endColumn": 56,
+                    "endOffset": 2042
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1990,
+                        "endColumn": 56,
+                        "endOffset": 2042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2047,
+                    "endColumn": 39,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2047,
+                        "endColumn": 39,
+                        "endOffset": 2082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 55,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2087,
+                        "endColumn": 55,
+                        "endOffset": 2138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 44,
+                    "endOffset": 2183
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2143,
+                        "endColumn": 44,
+                        "endOffset": 2183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2188,
+                    "endColumn": 41,
+                    "endOffset": 2225
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2188,
+                        "endColumn": 41,
+                        "endOffset": 2225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2230,
+                    "endColumn": 35,
+                    "endOffset": 2261
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2230,
+                        "endColumn": 35,
+                        "endOffset": 2261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2266,
+                    "endColumn": 34,
+                    "endOffset": 2296
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2266,
+                        "endColumn": 34,
+                        "endOffset": 2296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2301,
+                    "endColumn": 36,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2301,
+                        "endColumn": 36,
+                        "endOffset": 2333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2338,
+                    "endColumn": 46,
+                    "endOffset": 2380
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2338,
+                        "endColumn": 46,
+                        "endOffset": 2380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2385,
+                    "endColumn": 42,
+                    "endOffset": 2423
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2385,
+                        "endColumn": 42,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2428,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2715
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2428,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 2715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2720,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 2875
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2720,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 2875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2880,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2880,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 3163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3168,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 3452
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3168,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 3452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3457,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 3661
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3457,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 3661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3666,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 3827
+                },
+                "from": {
+                    "file": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3666,
+                        "endLine": 83,
+                        "endColumn": 12,
+                        "endOffset": 3827
+                    }
+                }
+            }
+        ]
+    }
+]

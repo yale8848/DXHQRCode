@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/qrcode_bg_blue_white"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical" >
+
+    <include layout="@layout/qrcode_build_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFFFF"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/layout_show"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <TextView
+                android:id="@+id/txt_what"
+                style="@style/WrapView"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="20dp"
+                android:textSize="18sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_margin="15dp"
+                android:background="#41b3fc" />
+
+            <TextView
+                android:id="@+id/txt_show"
+                style="@style/WrapView"
+                android:layout_margin="15dp"
+                android:autoLink="web"
+                android:textSize="18sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_margin="15dp"
+                android:background="#41b3fc" />
+
+            <View style="@style/Veiw_Null_Height" />
+
+            <TextView
+                android:id="@+id/txt_copy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:background="@drawable/qrcode_txt_show_onclick_sel"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="复制"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txt_link"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/qrcode_txt_show_onclick_sel"
+                android:gravity="center_horizontal|center_vertical"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/txt_share"
+                style="@style/WrapView"
+                android:layout_marginRight="15dp"
+                android:padding="15dp"
+                android:textColor="#FFFFFFFF"
+                android:textSize="18sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/txt_null"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFFFFF"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="没有什么,快去扫扫吧!"
+        android:textColor="#B0B0B0"
+        android:visibility="gone" />
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\qrcode_build_title.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\layout\\qrcode_build_title.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\qrcode_bottom_title.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\layout\\qrcode_bottom_title.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\qicode_activity_main.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\layout\\qicode_activity_main.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\qrcode_activity_show.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\layout\\qrcode_activity_show.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\qrcode_activity_capture.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\layout\\qrcode_activity_capture.xml"
+    }
+]

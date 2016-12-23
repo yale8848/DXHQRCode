@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_bg_blue_white.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_bg_blue_white.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_top_bg_lesspadding_shape.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_top_bg_lesspadding_shape.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\launcher_icon.png",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dxhqrcode_selector_text_scan.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\dxhqrcode_selector_text_scan.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_button_check_shape.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_button_check_shape.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_btn_back_top_sel.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_btn_back_top_sel.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_txt_light_sel.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_txt_light_sel.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_button_shape.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_button_shape.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_txt_show_onclick_sel.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_txt_show_onclick_sel.xml"
+    },
+    {
+        "merged": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\qrcode_txt_pic_sel.xml",
+        "source": "C:\\YaleSoftFiles\\WorkSpace\\AndroidStudio\\DaoXueHao\\ProjectLibs\\dXHQRCode\\build\\intermediates\\bundles\\debug\\res\\drawable\\qrcode_txt_pic_sel.xml"
+    }
+]
